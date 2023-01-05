@@ -1,6 +1,7 @@
 # hi.
 I'm thirst.<br>
-forever thirsty. <br>
+your average ricer and arch user :( <br>
+depression is really nice, you should try it.
 
-## btw heres some random info ig..
+## some random info
 <!--![](https://raw.githubusercontent.com/frapdotbmp/stuffs/master/generated/overview.svg#gh-dark-mode-only)-->
