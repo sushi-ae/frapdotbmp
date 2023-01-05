@@ -1,5 +1,5 @@
 # hi.
-I'm thirst.<br>
+I'm thirst. 💧<br>
 your average bad ricer and arch user :( <br>
 depression is really nice, you should try it. <br>
 
