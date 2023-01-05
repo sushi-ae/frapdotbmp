@@ -4,4 +4,4 @@ your average ricer and arch user :( <br>
 depression is really nice, you should try it.
 
 ## some random info
-<!--![](https://raw.githubusercontent.com/frapdotbmp/stuffs/master/generated/overview.svg#gh-dark-mode-only)-->
+![](https://raw.githubusercontent.com/frapdotbmp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
