@@ -11,7 +11,6 @@ depression is really nice, you should try it. <br>
 
 ## here are some of my worst rices
 ![2023-01-04-151649_1440x900_scrot](https://user-images.githubusercontent.com/118438453/210741770-cd5fd3c8-f7af-4ea5-b7fc-9ff43948767e.png)
-![2022-12-05-133710_1440x900_scrot](https://user-images.githubusercontent.com/118438453/210741923-652a90b3-e59e-4f02-87e2-8194ddfbdf78.png)
 ![2022-12-07-151524_1440x900_scrot](https://user-images.githubusercontent.com/118438453/210741975-2d100227-c999-4d24-ae20-a4ed5a22eec4.png)
 yea, they're pretty mid <br>
 <br>
