@@ -15,3 +15,4 @@ I don't know what else to add here so take a cookie.
 
 ## some random info
 ![](https://raw.githubusercontent.com/frapdotbmp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+yea, its pretty mid.
