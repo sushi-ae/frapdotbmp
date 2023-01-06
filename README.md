@@ -16,7 +16,7 @@
      <details>
      <summary><samp><b>random stuffs</b></samp></summary>
       <samp>
-      here's some info about me : <br> <br>
+      things that apply to me : <br> <br>
       - bad at life <br>
       - bad dev <br>
       - bad ricer <br><br>
