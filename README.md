@@ -27,8 +27,8 @@
       I also like old stuffs like the fat IBM pc's <br>
       and the thicc thinkpads.
       </samp>
-      
-     
+      <br><br>
+      <img src="https://raw.githubusercontent.com/frapdotbmp/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
    </samp>
   </p>
 </div>
