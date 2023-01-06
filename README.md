@@ -11,7 +11,7 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&weight=500&size=16&pause=1000&color=CFCFCF&center=true&vCenter=true&width=435&lines=depression+is+really+fun%2C+you+should+try+it."/>
      </b>
      <br>
-       Hi, i'm thirst. A GNU/Linux noob and a lazy man. <br>
+       Hi, i'm Liam. A GNU/Linux noob and a lazy man. <br>
        currently undergoing mild to moderate depression. :(
      <details>
      <summary><samp><b>random stuffs</b></samp></summary>
