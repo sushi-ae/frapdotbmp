@@ -14,7 +14,7 @@
        Hi, i'm thirst. A GNU/Linux noob and a lazy man. <br>
        currently undergoing mild to moderate depression. :(
      <details>
-     <summary><samp>random stuffs</samp></summary>
+     <summary><samp><b>random stuffs</b></samp></summary>
       <samp>
       here's some info about me : <br> <br>
       - bad at life <br>
