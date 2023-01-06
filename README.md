@@ -1,22 +1,34 @@
-# hi.
-I'm thirst. 💧<br>
-your average bad ricer and arch user :( <br>
-depression is really nice, you should try it. <br>
-
-### stuffs 
- - bad dev 
- - bad ricer
- - bad arch user
- - bad at life (imagine getting hit by a car)
-
-## here are some of my worst rices
-![2023-01-04-151649_1440x900_scrot](https://user-images.githubusercontent.com/118438453/210741770-cd5fd3c8-f7af-4ea5-b7fc-9ff43948767e.png)
-![2022-12-07-151524_1440x900_scrot](https://user-images.githubusercontent.com/118438453/210741975-2d100227-c999-4d24-ae20-a4ed5a22eec4.png)
-yea, they're pretty mid <br>
-<br>
-I don't know what else to add here so take a cookie.
-🍪
-
-## some random info
-![](https://raw.githubusercontent.com/frapdotbmp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-yea, its pretty mid aswell.
+<div align="center">
+  <p align="center">
+    <samp>
+      <b>
+        hi
+     </b>
+      <br>
+        I'm thirst, forever thirsty.
+     <br>
+     <b>
+     <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&weight=500&size=16&pause=1000&color=CFCFCF&center=true&vCenter=true&width=435&lines=depression+is+really+fun%2C+you+should+try+it."/>
+     </b>
+     <br>
+       Hi, i'm thirst. A GNU/Linux noob and a lazy man. <br>
+       currently undergoing mild to moderate depression. :(
+     <details>
+     <summary><samp>random stuffs</samp></summary>
+      <samp>
+      here's some info about me : <br> <br>
+      - bad at life <br>
+      - bad dev <br>
+      - bad ricer <br><br>
+      <b>just retarded basically..</b> <br><br>
+      <b><i>about me :</i></b> <br>
+      I like foxes and the color orange. <br>
+      people think i'm a femboy but i'm not. <br>
+      I also like old stuffs like the fat IBM pc's <br>
+      and the thicc thinkpads.
+      </samp>
+      
+     
+   </samp>
+  </p>
+</div>
