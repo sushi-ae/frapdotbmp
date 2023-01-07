@@ -15,7 +15,10 @@
        currently undergoing mild to moderate depression. :(
      <details>
      <summary><samp><b>random stuffs</b></samp></summary>
-      <samp>
+      <samp> <br>
+      <img src="https://dcbadge.vercel.app/api/shield/897771731782074399"/> <br> 
+      ------------  
+       <br>
       <b><i>things that apply to me :</i></b> <br> <br>
       - bad at life <br>
       - bad dev <br>
