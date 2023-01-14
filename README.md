@@ -12,7 +12,7 @@
      </b>
      <br>
        Hi, i'm Liam. A GNU/Linux noob and a lazy man. <br>
-       currently undergoing mild to moderate depression. :(
+       currently undergoing mild to moderate (atypical) depression. :(
      <details>
      <summary><samp><b>random stuffs</b></samp></summary>
       <samp> <br>
