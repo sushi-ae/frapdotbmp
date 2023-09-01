@@ -16,8 +16,6 @@
      <details>
      <summary><samp><b>random stuffs</b></samp></summary>
       <samp> <br>
-      <img src="https://dcbadge.vercel.app/api/shield/897771731782074399"/> <br> 
-      ------------  
        <br>
       <b><i>things that apply to me :</i></b> <br> <br>
       - bad at life <br>
